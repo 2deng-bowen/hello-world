@@ -1,2 +1,2 @@
 # Mini-Group-Making-a-Repository
-Mini Group: Making a Repository
+hello-world
